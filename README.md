@@ -1,7 +1,7 @@
 <h1  align='center'> 
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=32&duration=4000&color=59A5FE&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Farid;I'm+FrontEnd+Developer" width="320"> 
 </h1>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faridnuriyev&color=59A5FE&style=for-the-badge" alt="faridnuriyev" /> </p>
 
