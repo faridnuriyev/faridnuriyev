@@ -43,17 +43,17 @@
 <a href="https://www.linkedin.com/in/farid-nuriyev" target="_blank"><img src="https://img.shields.io/badge/linkedin-%23323330.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
              
              
- <a href="https://github.com/faridnuriyev" align="left"><img src="https://readme-stats.clckblog.space/api/top-langs/?username=Faridnuriyev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>            
+ <a href="https://github.com/faridnuriyev" align="left"><img src="https://readme-stats.clckblog.space/api/top-langs/?username=faridnuriyev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>            
 
 
 
 
 <div display="flex">
-  <img src="https://readme-stats.clckblog.space/api?username=Faridnuriyev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Faridnuriyev's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faridnuriyev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  <img src="https://readme-stats.clckblog.space/api?username=faridnuriyev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Faridnuriyev's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faridnuriyev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </div> <br>
 
 
 
 
-![Ceyhun1999's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ceyhun1999&custom_title=Jeyhun's%20GitHub%20Activity%20Graph&bg_color=1c1917&color=A9FEF7&line=0891b2&point=ffffff&area_color=0891b2&title_color=0891b2&area=true)
+![Farid's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=faridnuriyev&custom_title=Farid's%20GitHub%20Activity%20Graph&bg_color=1c1917&color=A9FEF7&line=0891b2&point=ffffff&area_color=0891b2&title_color=0891b2&area=true)
